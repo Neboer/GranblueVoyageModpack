@@ -5,7 +5,7 @@
 ### 客户端模组列表
 
 ```
- 3 deps | cf | ^Ad Astra
+  3 deps | cf | ^Ad Astra
  3 deps | cf | ^Apotheosis
  1 dep  | cf | ^Apothic Attributes (AttributesLib)
         | cf | ^Architectury API (Fabric/Forge/NeoForge)
@@ -15,11 +15,11 @@
         | cf | ^Ars Nouveau
         | cf | ^AzureLib
         | cf | ^bad packets
- 2 deps | cf | ^Create: Bells & Whistles
+ 1 dep  | cf | ^Create: Bells & Whistles
  1 dep  | cf | ^Biomes O' Plenty
         | cf | ^Botarium
         | cf | ^Carry On
- 2 deps | cf | ^Casualness Delight
+ 1 dep  | cf | ^Casualness Delight
         | cf | ^CC: Tweaked
         | cf | ^CC: VS
         | cf | ^CC:C Bridge
@@ -29,21 +29,21 @@
  1 dep  | cf | ^Create Central Kitchen
  2 deps | cf | ^Clockwork: Create x Valkyrien Skies
  1 dep  | cf | ^Create Confectionery
- 1 dep  | cf | ^?Destroy
- 2 deps | cf | ^?Create: Dreams & Desires
+ 1 dep  | cf | ^⚠Destroy
+ 2 deps | cf | ^⚠Create: Dreams & Desires
  1 dep  | cf | ^Create Enchantment Industry
  2 deps | cf | ^Create Goggles (Create Plus)
         | cf | ^Create: More Drill Heads
  2 deps | cf | ^Create: New Age
  1 dep  | cf | ^Create Sifting
-        | cf | ^?Create: Sweets & Treats
+        | cf | ^⚠Create: Sweets & Treats
         | cf | ^Create: Tweaked Controllers
         | cf | ^Create: Villagerology
         | cf | ^Create Utilities (Fabric/Forge)
         | cf | ^Curios API (Forge/NeoForge)
         | cf | ^CustomSkinLoader
-        | cf | ^?Detected setBlock Be Gone
- 1 dep  | cf | ^[Let's Do] API
+        | cf | ^⚠Detected setBlock Be Gone
+ 1 dep  | cf | ^[Let's Do] API 
  1 dep  | cf | ^Elementary Nether and End Ores
         | cf | ^Embeddium
  3 deps | cf | ^Embeddium++
@@ -51,13 +51,10 @@
  1 dep  | cf | ^End's Delight
  2 deps | cf | ^Epic Samurai's - Forge
  1 dep  | cf | ^Eureka! Ships! for Valkyrien Skies (Forge/Fabric)
-        | cf | ^Fabric API
         | cf | ^Farmer's Delight
-        | cf | ^[Deprecated] Farmer's Delight [Fabric]
         | cf | ^FLIB
         | cf | ^Friends&Foes (Forge/NeoForge) (Copper Golem, Glare, Moobloom, Iceologer, Barnacle, Wildfire, Rascal, Tuff Golem)
-        | cf | ^Fruit Stack
- 1 dep  | cf | ^Fruitstack Jei Support
+ 1 dep  | cf | ^Fruits Delight
         | cf | ^GeckoLib
  1 dep  | cf | ^Grappling Hook Mod
         | cf | ^I18nUpdateMod
@@ -116,13 +113,13 @@
         | cf | ^Zeta
         | cf | ^Zume
 
-Projects total: 110
+Projects total: 107
 ```
 
 ### 服务器模组列表
 
 ```
- 3 deps | cf | ^Ad Astra
+3 deps | cf | ^Ad Astra
  3 deps | cf | ^Apotheosis
  1 dep  | cf | ^Apothic Attributes (AttributesLib)
         | cf | ^Architectury API (Fabric/Forge/NeoForge)
@@ -146,20 +143,20 @@ Projects total: 110
  1 dep  | cf | ^Create Central Kitchen
  2 deps | cf | ^Clockwork: Create x Valkyrien Skies
  1 dep  | cf | ^Create Confectionery
- 1 dep  | cf | ^?Destroy
- 2 deps | cf | ^?Create: Dreams & Desires
+ 1 dep  | cf | ^⚠Destroy
+ 2 deps | cf | ^⚠Create: Dreams & Desires
  1 dep  | cf | ^Create Enchantment Industry
  2 deps | cf | ^Create Goggles (Create Plus)
         | cf | ^Create: More Drill Heads
  2 deps | cf | ^Create: New Age
  1 dep  | cf | ^Create Sifting
-        | cf | ^?Create: Sweets & Treats
+        | cf | ^⚠Create: Sweets & Treats
         | cf | ^Create: Tweaked Controllers
         | cf | ^Create: Villagerology
         | cf | ^Create Utilities (Fabric/Forge)
         | cf | ^Curios API (Forge/NeoForge)
-        | cf | ^?Detected setBlock Be Gone
- 1 dep  | cf | ^[Let's Do] API
+        | cf | ^⚠Detected setBlock Be Gone
+ 1 dep  | cf | ^[Let's Do] API 
  1 dep  | cf | ^Elementary Nether and End Ores
  1 dep  | cf | ^Ender's Delight
  1 dep  | cf | ^End's Delight
@@ -168,8 +165,7 @@ Projects total: 110
         | cf | ^Farmer's Delight
         | cf | ^FLIB
         | cf | ^Friends&Foes (Forge/NeoForge) (Copper Golem, Glare, Moobloom, Iceologer, Barnacle, Wildfire, Rascal, Tuff Golem)
-        | cf | ^Fruit Stack
- 1 dep  | cf | ^Fruitstack Jei Support
+ 1 dep  | cf | ^Fruits Delight
         | cf | ^GeckoLib
  1 dep  | cf | ^Grappling Hook Mod
         | cf | ^I18nUpdateMod
@@ -224,7 +220,8 @@ Projects total: 110
  1 dep  | cf | ^Youkai's Homecoming
         | cf | ^Zeta
 
-Projects total: 101
+Projects total: 100
+
 ```
 
 ## 注意事项
@@ -234,6 +231,14 @@ Projects total: 101
 - “果栈丰萦”模组已经被作者删除，需要用果园乐事替代。
 
 ## 更新日志：
+
+---
+
+- 0.0.6:
+  - 删除了没有意义的依赖：farmers-delight-fabric和fabric-api（bellsandwhistles依赖）
+  - 删除了fruit-stack fruitstack-jei-support。
+  - 添加新模组fruits-delight果园乐事。
+  - 删除了create-interactive(create_interactive-1201-forge-1.0.2-beta.1.jar)。
 
 ---
 

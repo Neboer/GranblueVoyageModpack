@@ -399,10 +399,9 @@
             ]
         },
         {
-            "pakku_id": "LzQb3P0SCAmBXTRs",
+            "pakku_id": "fyRDro26wTMwKBcl",
             "pakku_links": [
-                "RmPVx2OrfcnXHUbu",
-                "OEMpGkWHSu5mmZcH"
+                "RmPVx2OrfcnXHUbu"
             ],
             "type": "MOD",
             "slug": {
@@ -562,8 +561,7 @@
         {
             "pakku_id": "cyN6DsOtzi95PAGn",
             "pakku_links": [
-                "XWJhmOjc29kr8kvZ",
-                "axOmURJcOtROG024"
+                "XWJhmOjc29kr8kvZ"
             ],
             "type": "MOD",
             "slug": {
@@ -1821,21 +1819,6 @@
             ]
         },
         {
-            "pakku_id": "OEMpGkWHSu5mmZcH",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "fabric-api"
-            },
-            "name": {
-                "curseforge": "Fabric API"
-            },
-            "id": {
-                "curseforge": "306612"
-            },
-            "files": [
-            ]
-        },
-        {
             "pakku_id": "XWJhmOjc29kr8kvZ",
             "type": "MOD",
             "slug": {
@@ -1870,21 +1853,6 @@
                     ],
                     "size": 2915349
                 }
-            ]
-        },
-        {
-            "pakku_id": "axOmURJcOtROG024",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "farmers-delight-fabric"
-            },
-            "name": {
-                "curseforge": "[Deprecated] Farmer's Delight [Fabric]"
-            },
-            "id": {
-                "curseforge": "482834"
-            },
-            "files": [
             ]
         },
         {
@@ -1963,36 +1931,44 @@
             ]
         },
         {
-            "pakku_id": "anDPUNsUe2tuDebB",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "fruit-stack"
-            },
-            "name": {
-                "curseforge": "Fruit Stack"
-            },
-            "id": {
-                "curseforge": "900231"
-            },
-            "files": [
-            ]
-        },
-        {
-            "pakku_id": "ElK4rOagesp2g4K4",
+            "pakku_id": "mdQlVW70xEqzYGUZ",
             "pakku_links": [
-                "anDPUNsUe2tuDebB"
+                "XWJhmOjc29kr8kvZ"
             ],
             "type": "MOD",
             "slug": {
-                "curseforge": "fruitstack-jei-support"
+                "curseforge": "fruits-delight"
             },
             "name": {
-                "curseforge": "Fruitstack Jei Support"
+                "curseforge": "Fruits Delight"
             },
             "id": {
-                "curseforge": "922902"
+                "curseforge": "943774"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fruitsdelight-1.0.8.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5122/589/fruitsdelight-1.0.8.jar",
+                    "id": "5122589",
+                    "parent_id": "943774",
+                    "hashes": {
+                        "sha1": "5701080438e520f01052da518b447eaca88ea42d",
+                        "md5": "eeaf670c3b4bc17f562ddac7f1b8501d"
+                    },
+                    "required_dependencies": [
+                        "398521"
+                    ],
+                    "size": 1842167
+                }
             ]
         },
         {
