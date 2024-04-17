@@ -1,0 +1,11 @@
+极简血量显示
+现代化 UI
+皮肤补丁CustomSkinLoader_ForgeActive
+i18汉化
+世界地图
+embeddium
+embeddium++
+Oculus
+https://github.com/ThinkingStudios/ContingameIME （cloth-config architectury-api）
+
+neat modern-ui customskinloader i18nupdatemod xaeros-world-map embeddium embeddiumplus oculus cloth-config architectury-api 

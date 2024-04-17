@@ -1,0 +1,14 @@
+{
+    "name": "GranblueVoyage",
+    "version": "0.0.4",
+    "description": "",
+    "author": "",
+    "overrides": [
+    ],
+    "server_overrides": [
+    ],
+    "client_overrides": [
+    ],
+    "projects": {
+    }
+}
