@@ -234,7 +234,7 @@ Projects total: 100
 
 ---
 
-- 0.0.6:
+- 0.1.1:
   - 删除了没有意义的依赖：farmers-delight-fabric和fabric-api（bellsandwhistles依赖）
   - 删除了fruit-stack fruitstack-jei-support。
   - 添加新模组fruits-delight果园乐事。
